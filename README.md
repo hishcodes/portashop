@@ -18,7 +18,7 @@ Attaching files or display additional information in product pages</li><li>
 Set a minimal quantity to purchase for some products</li><li>
 Choose which message to display for out-of-stock items</li></ul>                                                           
 
-Full tutorial: www.hishcodes.com/portashop
+www.hishcodes.com/portashop
 
 Credits:<br>
 www.hishcodes.com <br>
